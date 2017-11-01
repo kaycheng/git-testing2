@@ -143,6 +143,5 @@
       break
     end
 
-    mage.stats                                      # 印出魔法師的屬性
     monster.attack(mage)                            # 怪獸攻擊
   end
